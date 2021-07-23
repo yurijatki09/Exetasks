@@ -1,0 +1,82 @@
+.purple{
+    background-color: #7C3BD9;
+}
+
+.purple2{
+    background-color: #411D73 !important;
+}
+
+.border-purple{
+    border: 3x solid #411D73 !important;
+}
+
+.txt_yellow{
+    color: rgb(255, 255, 224) !important;
+}
+.txt_yellow:hover{
+    color: rgb(176, 223, 255) !important;
+}
+
+.no_hover_yellow{
+    color: rgb(255, 255, 224) !important;
+}
+
+.bt_navbar{
+    background-color: #ffffff !important;
+}
+
+.li_header{
+    font-size: 24px;
+}
+
+.logo_header{
+    padding-right: 20px;
+}
+
+.content{
+    margin-top: 8%;
+}
+.content h2{
+    font-size: 34px;
+}
+
+.button_reg{
+    border: solid #411D73 !important;
+    background-color: #f1f1f1;
+    outline: none;
+}
+
+.button_reg:hover{
+    border: solid #411D73;
+    color: #f1f1f1;
+    background-color: #7C3BD9;
+}
+.button_reg:focus{
+    box-shadow: none !important;
+} 
+
+#image{
+    width: 300px;
+}
+
+.img_about{
+    background: url("../imgs/motivação-estudo.png") no-repeat center center fixed;
+    background-size: 100%;
+}
+
+.frmBorder{
+    border-radius: 4px solid #000000 !important;
+}
+a:link
+{
+    text-decoration: none !important;
+}
+
+html, body{
+    height: 100%;
+}
+
+ Serve para deixar o rodapé em baixo
+.container-fluid{ 
+    min-height: 84.3% !important;
+}
